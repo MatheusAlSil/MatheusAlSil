@@ -55,25 +55,13 @@
 
 ---
 
-<!-- CARDS DE ESTATÍSTICAS ANIMADOS -->
-## 📊 Estatísticas do Brabo
-
-<div align="center">
-  <!-- Mude SEU-USUARIO-AQUI pelo seu username do GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAlSil-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlSil-AQUI&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
----
 
 <!-- REDES E CONTATO COM BOTÕES EFEITO GLOW -->
 ## 📬 Brota nas redes!
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/matheusalvesdasilva" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-alves-da-silva-03a88b442/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
