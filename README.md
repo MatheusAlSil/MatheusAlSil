@@ -18,7 +18,7 @@
 > *"Se o código rodou de primeira, com certeza tem alguma coisa errada."* 😅
 
 - 🎓 **No corre do 2º ano do Ensino Técnico** no curso de TI/Desenvolvimento.
-- ⚡ **Na pilha de aprender:** Estrutura de dados, automações em Python, páginas modernas com JS/React e banco de dados.
+- ⚡ **Na pilha de aprender:** Estrutura de dados, automações em Python, aprendendo HTML e CSS
 - ☕ **Combustível:** Café, muita música no fone e determinação de dev.
 - 🎯 **Meta atual:** Fazer projetos brabos pro portfólio e colar em uma vaga de **Estágio/Jovem Aprendiz** pra amassar na prática!
 - 🤝 **Tamo junto:** Aberto pra trocar uma ideia, tirar dúvidas de código e criar projetos em conjunto.
