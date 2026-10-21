@@ -15,12 +15,12 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="80" />
 
-> *"Se o código rodou de primeira, com certeza tem alguma coisa errada."* 😅
+> *"Se o código rodou de primeira, com certeza tem alguma coisa errada."* 
 
 - 🎓 **No corre do 2º ano do Ensino Técnico** no curso de TI/Desenvolvimento.
 - ⚡ **Na pilha de aprender:** Estrutura de dados, automações em Python, aprendendo HTML e CSS
-- ☕ **Combustível:** Café, muita música no fone e determinação de dev.
-- 🎯 **Meta atual:** Fazer projetos brabos pro portfólio e colar em uma vaga de **Estágio/Jovem Aprendiz** pra amassar na prática!
+- ☕ **Combustível:** Resenha, comida e zoeira
+- 🎯 **Meta atual:** Fazer projetos pro portfólio e colar em uma vaga de **Estágio/Jovem Aprendiz**!
 - 🤝 **Tamo junto:** Aberto pra trocar uma ideia, tirar dúvidas de código e criar projetos em conjunto.
 
 <br/>
