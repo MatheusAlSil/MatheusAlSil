@@ -53,7 +53,7 @@
 
 
 <!-- REDES E CONTATO COM BOTÕES EFEITO GLOW -->
-## 📬 Brota nas redes!
+## 📬 Outras Redes
 
 <div align="center">
 
